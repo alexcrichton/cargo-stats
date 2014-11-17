@@ -1,6 +1,6 @@
 [package]
 
-name = "dl-all"
+name = "cargo-stats"
 version = "0.0.1"
 authors = ["Alex Crichton <alex@alexcrichton.com>"]
 
